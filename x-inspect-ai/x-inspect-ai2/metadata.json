@@ -1,0 +1,6 @@
+{
+  "name": "X-Inspect AI",
+  "description": "工业 X 光缺陷检测智能平台 - 统一传统计算机视觉与深度学习的精密无损智能检测与全局分析系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
